@@ -1,4 +1,7 @@
 # multiphase_percolation_front
+
+![Preview](https://numericalenvironmental.files.wordpress.com/2016/09/utchem-comparison.jpg?w=616)
+
 A scilab script that models 1-D gravity-driven multiphase flow/percolation; a Monte Carlo version is also included. Both scripts are self-contained (i.e., no external input files used).
 
 napl_percolation.sce: a scilab script to simulate multiphase percolation in the absence of capillary forces (i.e. gravity-driven)
